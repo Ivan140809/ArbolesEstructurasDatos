@@ -207,11 +207,11 @@ ArbolesEstructurasDatos/
 ### Recorridos Disponibles
  
 | Recorrido | Orden |
-|-----------|-------|-----|
+|-----------|-------|
 | `PreOrden()` | Raiz → Izq → Der | 
 | `InOrden()` | Izq → Raíz → Der |
 | `PosOrden()` | Izq → Der → Raíz |
-| `NivelOrden()` | Por niveles (BFS) |
+| `NivelOrden()` | Por niveles |
 
 ## 👤 Autor
 Ivan140809
