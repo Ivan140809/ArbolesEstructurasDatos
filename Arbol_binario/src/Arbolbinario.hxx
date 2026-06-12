@@ -1,4 +1,4 @@
-#include "Arbolbinario.h"
+#include "../includes/Arbolbinario.h"
 #include <queue>
 
 template <class T>

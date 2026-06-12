@@ -2,10 +2,12 @@
 #define __ARBOLMONTICULO_H__
 
 #include <iostream>
+#include <vector>
 #include <deque>
 #include <algorithm>
 #include <cmath>
 #include <list>
+
 template <class T>
 class ArbolMonticulo {
 private:
@@ -28,6 +30,5 @@ public:
     void NivelOrden();
 };
 
-#include "ArbolMonticulo.hxx"
-
+#include "../src/ArbolMonticulo.hxx"
 #endif

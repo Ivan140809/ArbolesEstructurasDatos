@@ -1,4 +1,4 @@
-#include "NodoGeneral.h"
+#include "../includes/NodoGeneral.h"
 #include <iostream>
 
 template <class T>

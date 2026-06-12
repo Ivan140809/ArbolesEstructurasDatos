@@ -31,5 +31,5 @@ public:
     void NivelOrden();
 };
  
-#include "ArbolAVL.hxx"
+#include "../src/ArbolAVL.hxx"
 #endif

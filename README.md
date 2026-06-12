@@ -20,7 +20,7 @@ Este repositorio contiene la implementación detallada de cinco estructuras de �
 
 ### Arbol General
 
-**Archivos:** `ArbolGeneral.h`, `ArbolGeneral.hxx`, `NodoGeneral.h`, `NodoGeneral.hxx`
+**Archivos:** `ArbolGeneral.h`, `ArbolGeneral.hxx`, `NodoGeneral.h`, `NodoGeneral.hxx` en directorio `Arbol_General`
 
 Un árbol donde cada nodo puede tener **N hijos** sin un limite establecido y con comportamiento general, arbol orientado a ser una generalización de los demas arboles para su implemetacion. 
 
@@ -44,7 +44,7 @@ ag.preOrden();                      // Recorridos disponibles
 ```
 
 ### Arbol Binario de Búsqueda
-**Archivos:** `Arbolbinario.h`, `Arbolbinario.hxx`, `NodoBinario.h`, `NodoBinario.hxx`
+**Archivos:** `Arbolbinario.h`, `Arbolbinario.hxx`, `NodoBinario.h`, `NodoBinario.hxx` en directorio `Arbol_binario`
  
 Árbol donde cada nodo tiene máximo 2 hijos (izquierdo y derecho) y que cumple propiedad de menores a la izquierda mayores a la derecha.
  
@@ -67,8 +67,7 @@ ab.buscar(7);                      // Buscar elemento
 ab.InOrden();                      // Recorrido ordenado
 ```
 ### Arbol AVL 
-**Archivos:** `ArbolAVL.h`, `ArbolAVL.hxx`, `NodoAVL.h`, `NodoAVL.hxx`
- 
+**Archivos:** `ArbolAVL.h`, `ArbolAVL.hxx`, `NodoAVL.h`, `NodoAVL.hxx` en directorio `Arbol_AVL` en el directorio `Arbol_AVL`
 Arbol binario de búsqueda automáticamente balanceado mediante rotaciones al operar con insercion, eliminacion y busqueda garantizando complejidad en peor caso O(log n).
  
 **Características:**
@@ -98,8 +97,7 @@ int h = avl.altura();              // Obtener altura
 - Mas rotaciones que un rojinegro
 - Implementación más compleja al no estar estandarizada
 ### Arbol RojiNegro
-**Archivos:** `ArbolRN.h`, `ArbolRN.hxx`
- 
+**Archivos:** `ArbolRN.h`, `ArbolRN.hxx` en el directorio `Arbol_RN`
 Arbol binario balanceado con propiedades de color (rojo/negro).
  
 **Propiedades:**
@@ -126,8 +124,7 @@ rn.eliminar(30);                   // Eliminar manteniendo propiedades
 rn.InOrden();                      // Recorrido
 ```
  ### Arbol Montículo (Heap)
-**Archivos:** `ArbolMonticulo.h`, `ArbolMonticulo.hxx`
- 
+**Archivos:** `ArbolMonticulo.h`, `ArbolMonticulo.hxx` en el directorio `Arbol_Monticulo` 
 Arbol binario completamente lleno con propiedad heap.
  
 **Caracteristicas:**
@@ -162,7 +159,7 @@ heap.InOrden(lista);               // Obtener elementos
 ```
 ArbolesEstructurasDatos/
 │
-├── main.cpp                        # Programa principal de pruebas
+├── main.cpp # Programa principal de pruebas
 │
 ├── Árbol General
 │   ├── ArbolGeneral.h

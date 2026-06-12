@@ -1,4 +1,4 @@
-#include "NodoAVL.h"
+#include "../includes/NodoAVL.h"
 
 template <class T>
 NodoAVL<T>::NodoAVL() {

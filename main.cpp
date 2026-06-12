@@ -1,9 +1,10 @@
 #include <iostream>
-#include "Arbolbinario.h"
-#include "ArbolGeneral.h"
-#include "ArbolAVL.h"
-#include "ArbolRN.h"
-#include "ArbolMonticulo.h"
+#include <list>
+#include "Arbol_binario/includes/Arbolbinario.h"
+#include "Arbol_General/includes/ArbolGeneral.h"
+#include "Arbol_AVL/includes/ArbolAVL.h"
+#include "Arbol_RN/includes/ArbolRN.h"
+#include "Arbol_Monticulo/includes/ArbolMonticulo.h"
 using namespace std;
 
 int main(){

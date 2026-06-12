@@ -26,6 +26,5 @@ public:
     void PosOrden();
 };
 
-#include "NodoBinario.hxx"
-
+#include "../src/NodoBinario.hxx"
 #endif

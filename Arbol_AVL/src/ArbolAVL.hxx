@@ -1,4 +1,4 @@
-#include "ArbolAVL.h"
+#include "../includes/ArbolAVL.h"
 #include <queue>
 
 template <class T>

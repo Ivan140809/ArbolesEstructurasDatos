@@ -33,5 +33,5 @@ public:
     void PosOrden();
 };
  
-#include "NodoAVL.hxx"
+#include "../src/NodoAVL.hxx"
 #endif

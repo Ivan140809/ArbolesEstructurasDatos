@@ -25,5 +25,5 @@ void PosOrden();
 void NivelOrden();
 
 };
-#include "ArbolBinario.hxx"
+#include "../src/Arbolbinario.hxx"
 #endif

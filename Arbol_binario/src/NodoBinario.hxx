@@ -1,4 +1,4 @@
-#include "NodoBinario.h"
+#include "../includes/NodoBinario.h"
 
 template <class T>
 NodoBinario<T>::NodoBinario() {

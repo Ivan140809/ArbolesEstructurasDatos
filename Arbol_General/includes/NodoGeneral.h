@@ -21,5 +21,5 @@ public:
     void posOrden();
     std::list<NodoGeneral<T>*>& obtenerDesc();
 };
-#include "NodoGeneral.hxx"
+#include "../src/NodoGeneral.hxx"
 #endif

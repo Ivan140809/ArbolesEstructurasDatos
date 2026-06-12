@@ -20,5 +20,5 @@ public:
     void InOrden();
 };
 
-#include "ArbolRN.hxx"
+#include "../src/ArbolRN.hxx"
 #endif

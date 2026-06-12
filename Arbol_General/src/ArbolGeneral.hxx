@@ -1,4 +1,4 @@
-#include "ArbolGeneral.h"
+#include "../includes/ArbolGeneral.h"
 #include <queue>
 #include <iostream>
 

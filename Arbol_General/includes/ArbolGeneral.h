@@ -27,5 +27,5 @@ private:
     bool buscarRec(NodoGeneral<T>* nodo, T n);
     unsigned int tamanoRec(NodoGeneral<T>* nodo);
 };
-#include "ArbolGeneral.hxx"
+#include "../src/ArbolGeneral.hxx"
 #endif
