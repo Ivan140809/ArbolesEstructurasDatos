@@ -1,4 +1,8 @@
-# Arboles - Estructuras de Datos. 
+# Arboles - Estructuras de Datos.
+
+![Java](https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-21-007396?style=for-the-badge&logo=java&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-Build-blue?style=for-the-badge&logo=apachemaven&logoColor=white) ![Status](https://img.shields.io/badge/Estado-Finalizado-brightgreen?style=for-the-badge)
+
+Badges de este repositorio: **ArbolesEstructurasDatos**.
 
 Implementación de cinco tipos de estructuras de árbol en C++: **Árbol General**, **Árbol Binario**, **Árbol AVL**, **Árbol Rojinegro** y **Árbol Montículo**.
 
