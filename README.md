@@ -1,6 +1,6 @@
 # Arboles - Estructuras de Datos.
 
-![Java](https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-21-007396?style=for-the-badge&logo=java&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-Build-blue?style=for-the-badge&logo=apachemaven&logoColor=white) ![Status](https://img.shields.io/badge/Estado-Finalizado-brightgreen?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![GCC](https://img.shields.io/badge/GCC-Compilador-A42E2B?style=for-the-badge&logo=gnu&logoColor=white) ![Status](https://img.shields.io/badge/Estado-Finalizado-brightgreen?style=for-the-badge)
 
 Badges de este repositorio: **ArbolesEstructurasDatos**.
 
